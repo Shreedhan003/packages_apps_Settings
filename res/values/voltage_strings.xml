@@ -345,4 +345,9 @@
     <string name="charging_sounds_custom_title">Charging sound</string>
     <string name="charging_vibro_title">Charging vibration</string>
 
+<!-- Notch behavior -->
+    <string name="display_cutout_mode_title">Notch behavior</string>
+    <string name="display_cutout_mode_normal">Default</string>
+    <string name="display_cutout_mode_hidden">Hidden</string>
+
 </resources>
